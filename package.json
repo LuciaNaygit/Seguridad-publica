@@ -6,9 +6,9 @@
   "scripts": {
     "install": "npm install @11ty/eleventy --save-dev",
     "start": "npx @11ty/eleventy --serve --port=7777",
-    "clean": "rm -rf docs",
+    "clean": "rm -rf docs/*.html docs/assets",
     "deploy": "npx @11ty/eleventy --pathprefix=/",
-    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/Seguridad-publica/ && npx pagefind --source=docs"
+    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/Seguridad-publica"
   },
   "keywords": [
     "11ty",
