@@ -8,15 +8,9 @@
     "start": "npx @11ty/eleventy --serve --port=7777",
     "clean": "rm -rf docs",
     "deploy": "npx @11ty/eleventy --pathprefix=/",
-    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/subdirectory/"
+    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/Seguridad-publica/ && npx pagefind --source=docs"
   },
-  "keywords": [
-    "11ty",
-    "eleventy",
-    "github pages",
-    "jonmircha"
-  ],
-  "author": "Jonathan MirCha <jonmircha@gmail.com>",
+  "author": "Jonathan MirCha <l22211458@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
