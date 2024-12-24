@@ -82,13 +82,6 @@ Los tribunales locales y federales trabajan en conjunto para garantizar que las 
 
 ---
 
-## Imágenes Recomendadas
-
-1. Diagrama de la jerarquía de normas en México.
-2. Representación gráfica del Sistema Penal Acusatorio.
-
----
-
 ## Conclusiones
 
 El marco jurídico mexicano es una herramienta clave para promover el desarrollo y garantizar la estabilidad social. Sin embargo, su efectividad depende de la capacidad de las instituciones para enfrentar desafíos como la corrupción, la impunidad y el acceso limitado a la justicia.

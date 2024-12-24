@@ -57,12 +57,7 @@ México ha adoptado varias medidas para fortalecer su postura ante las amenazas 
 
 ---
 
-## Imágenes Recomendadas
 
-1. Representación visual de un ataque cibernético en México.
-2. Una gráfica que muestre estadísticas de ciberataques en el país.
-
----
 
 ## Soluciones Propuestas
 

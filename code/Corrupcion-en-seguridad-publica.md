@@ -48,13 +48,6 @@ La corrupción crea un sistema donde el acceso a la justicia depende de factores
 
 ---
 
-## Imágenes Recomendadas
-
-1. Estadísticas de percepción de corrupción en la policía mexicana.
-2. Una ilustración que simbolice la lucha contra la corrupción.
-
----
-
 ## Estrategias para Combatir la Corrupción
 
 ### 1. **Fortalecimiento Institucional**

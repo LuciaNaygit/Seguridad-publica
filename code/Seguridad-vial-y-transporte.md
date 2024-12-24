@@ -56,12 +56,6 @@ El uso de sistemas inteligentes de tráfico y cámaras de vigilancia ha incremen
 
 ---
 
-## Imágenes Recomendadas
-
-1. Una gráfica mostrando estadísticas de accidentes de tránsito en México.
-2. Una imagen representativa de la infraestructura vial en zonas urbanas y rurales.
-
----
 
 ## Soluciones Propuestas
 

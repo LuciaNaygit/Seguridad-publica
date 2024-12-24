@@ -1,7 +1,5 @@
 # Violencia y Crimen Organizado en México: Análisis y Perspectivas
 
-[Imagen sugerida 1: Mapa de México mostrando estadísticas de seguridad por estado - gráfico informativo con datos oficiales]
-
 ## Contexto Histórico
 
 ### Evolución del Fenómeno
@@ -15,8 +13,6 @@ La transformación del crimen organizado en México representa uno de los mayore
 - 2000s: Escalada de violencia y militarización
 - 2010s: Diversificación criminal y nuevas dinámicas
 - 2020s: Adaptación a contextos post-pandemia
-
-[Imagen sugerida 2: Línea de tiempo infográfica mostrando eventos clave en la evolución de la seguridad en México]
 
 ### Transformación Estructural
 
@@ -42,8 +38,6 @@ La violencia y el crimen organizado encuentran sus raíces en diversos factores:
 - Marginación urbana
 - Migración forzada
 
-[Imagen sugerida 3: Infografía sobre factores socioeconómicos relacionados con la violencia]
-
 #### Factores Institucionales
 
 - Debilidad del Estado en ciertas regiones
@@ -62,8 +56,6 @@ México enfrenta desafíos únicos debido a su:
 - Terreno diverso y complejo
 - Zonas urbanas densamente pobladas
 
-[Imagen sugerida 4: Mapa estratégico mostrando rutas y zonas de influencia]
-
 ## Impacto Social
 
 ### Consecuencias Directas
@@ -75,8 +67,6 @@ México enfrenta desafíos únicos debido a su:
 - Destrucción de patrimonio
 - Trauma psicológico
 - Ruptura familiar
-
-[Imagen sugerida 5: Gráfico estadístico sobre impacto humano y social]
 
 #### Impacto Económico
 
@@ -96,8 +86,6 @@ México enfrenta desafíos únicos debido a su:
 - Modificación de patrones culturales
 - Afectación generacional
 
-[Imagen sugerida 6: Infografía sobre efectos generacionales de la violencia]
-
 ## Respuesta Institucional
 
 ### Estrategias Gubernamentales
@@ -109,8 +97,6 @@ México enfrenta desafíos únicos debido a su:
 - Inteligencia estratégica
 - Cooperación internacional
 - Tecnología y equipamiento
-
-[Imagen sugerida 7: Diagrama de estructura y coordinación de fuerzas de seguridad]
 
 #### Prevención Social
 
@@ -130,8 +116,6 @@ México enfrenta desafíos únicos debido a su:
 - Colaboración eficaz
 - Protección a testigos
 
-[Imagen sugerida 8: Infografía sobre evolución del marco legal]
-
 ## Transformación del Fenómeno
 
 ### Nuevas Modalidades
@@ -143,8 +127,6 @@ México enfrenta desafíos únicos debido a su:
 - Ciberdelitos
 - Delitos ambientales
 - Infiltración económica legal
-
-[Imagen sugerida 9: Gráfico sobre evolución de actividades criminales]
 
 #### Adaptación Tecnológica
 
@@ -164,8 +146,6 @@ México enfrenta desafíos únicos debido a su:
 - Corredores de tránsito
 - Zonas rurales estratégicas
 
-[Imagen sugerida 10: Mapa de calor sobre incidencia delictiva]
-
 ## Perspectivas de Solución
 
 ### Enfoques Integrales
@@ -177,8 +157,6 @@ México enfrenta desafíos únicos debido a su:
 - Cooperación internacional efectiva
 - Participación ciudadana
 - Prevención comunitaria
-
-[Imagen sugerida 11: Infografía sobre estrategias de solución]
 
 #### Innovación en Seguridad
 
@@ -198,8 +176,6 @@ México enfrenta desafíos únicos debido a su:
 - Capacitación especializada
 - Asistencia técnica
 
-[Imagen sugerida 12: Diagrama de cooperación internacional]
-
 ## Conclusiones
 
 El abordaje de la violencia y el crimen organizado en México requiere:
@@ -217,8 +193,6 @@ La solución demanda un enfoque integral que combine:
 - Reformas institucionales profundas
 - Participación ciudadana activa
 - Cooperación internacional robusta
-
-[Imagen sugerida 13: Infografía resumen de conclusiones y recomendaciones]
 
 **Nota sobre las imágenes sugeridas:**
 

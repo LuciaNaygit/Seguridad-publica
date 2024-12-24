@@ -8,9 +8,9 @@ La seguridad pública es uno de los temas más críticos y complejos en México,
 
 La evolución de las políticas públicas de seguridad en México está marcada por los cambios políticos, sociales y económicos del país. Desde la segunda mitad del siglo XX, México experimentó un aumento significativo en los índices delictivos, especialmente relacionados con el narcotráfico. Este fenómeno dio lugar a estrategias de militarización de la seguridad pública, como la creación de la Policía Federal en 1999 y el uso creciente de las Fuerzas Armadas en tareas de seguridad interna.
 
-![Mapa de zonas de incidencia delictiva en México](ruta_de_la_imagen.jpg)
 
----
+
+
 
 ## Principales Políticas Públicas de Seguridad
 
@@ -32,7 +32,6 @@ La prevención social del delito ha cobrado mayor relevancia en las políticas a
 - **Desempleo**
 - **Acceso limitado a la educación y la salud**
 
-![Imagen de programas sociales enfocados en jóvenes](ruta_de_la_imagen_2.jpg)
 
 ---
 
@@ -66,7 +65,6 @@ Para mejorar las políticas públicas de seguridad en México, se necesitan acci
 - **Tecnología en Seguridad**: Implementar herramientas de análisis predictivo y vigilancia avanzada.
 - **Policía Comunitaria**: Fomentar una mayor participación ciudadana en las estrategias de prevención del delito.
 
-![Infografía sobre propuestas de seguridad en México](ruta_de_la_imagen_3.jpg)
 
 ---
 

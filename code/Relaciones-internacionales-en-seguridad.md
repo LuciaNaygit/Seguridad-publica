@@ -17,13 +17,6 @@ Entre los retos más relevantes para México en el ámbito de la seguridad inter
 
 ---
 
-## Imágenes Recomendadas
-
-1. Encuentros diplomáticos de seguridad entre México y otros países.
-2. Infraestructura fronteriza y operativos conjuntos.
-
----
-
 ## Cooperación Internacional en Seguridad
 
 ### 1. Tratados y Acuerdos Bilaterales

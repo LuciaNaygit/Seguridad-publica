@@ -67,13 +67,6 @@ La seguridad fronteriza es una prioridad en la lucha contra el terrorismo. Méxi
 
 ---
 
-## Imágenes Recomendadas
-
-1. Mapa de México con rutas estratégicas relacionadas con tráfico ilícito.
-2. Infografía sobre la cooperación México-Estados Unidos en seguridad.
-
----
-
 ## Desafíos Persistentes
 
 ### 1. **Fronteras porosas**

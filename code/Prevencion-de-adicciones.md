@@ -35,15 +35,6 @@ La complejidad del problema de las adicciones radica en su relación con factore
 - Desempleo y pobreza.
 - Desigualdad social.
 
----
-
-## Imágenes Recomendadas
-
-1. Estadísticas sobre el consumo de sustancias en México.
-2. Programas comunitarios de prevención en acción.
-
----
-
 ## Estrategias de Prevención
 
 La prevención de adicciones en México requiere un enfoque integral que abarque medidas educativas, comunitarias y políticas.

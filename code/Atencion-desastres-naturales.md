@@ -44,13 +44,6 @@ En situaciones de emergencia, la respuesta se enfoca en:
 
 ---
 
-## Imágenes Recomendadas
-
-1. Mapa de las principales zonas de riesgo en México.
-2. Fotografía de un simulacro de protección civil.
-
----
-
 ## Retos en la Atención a Desastres
 
 ### 1. **Falta de Recursos**

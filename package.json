@@ -1,14 +1,14 @@
 {
-  "name": "proyecto-final",
+  "name": "Seguridad-publica",
   "version": "1.0.0",
   "description": "Proyecto final",
   "main": ".eleventy.js",
   "scripts": {
     "install": "npm install @11ty/eleventy --save-dev",
     "start": "npx @11ty/eleventy --serve --port=7777",
-    "clean": "rm -rf docs/*.html docs/assets",
+    "clean": "rm -rf docs/assets docs/*.md docs/*.njk",
     "deploy": "npx @11ty/eleventy --pathprefix=/",
-    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/Seguridad-publica"
+    "deploy-subdomain": "npx @11ty/eleventy --pathprefix=/Seguridad-publica && cp src/*.html docs/"
   },
   "keywords": [
     "11ty",

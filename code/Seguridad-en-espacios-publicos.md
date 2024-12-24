@@ -35,13 +35,6 @@ Según la Encuesta Nacional de Victimización y Percepción sobre Seguridad Púb
 
 ---
 
-## Imágenes Recomendadas
-
-1. Espacios públicos rehabilitados en México.
-2. Acciones de vigilancia en plazas y parques.
-
----
-
 ## Estrategias para Mejorar la Seguridad
 
 La recuperación y seguridad de los espacios públicos requiere un enfoque integral que involucre tanto al gobierno como a la ciudadanía.
